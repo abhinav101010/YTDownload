@@ -1,0 +1,6 @@
+# Runtime dependencies for YT Downloader (macOS / Apple Silicon friendly).
+customtkinter>=5.2.2,<7
+yt-dlp>=2025.1.1
+pillow>=10.3
+darkdetect>=0.8.0
+packaging>=23.0
